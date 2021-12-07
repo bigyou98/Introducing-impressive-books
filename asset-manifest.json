@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Introducing-impressive-books/static/css/main.567242dd.chunk.css",
+    "main.js": "/Introducing-impressive-books/static/js/main.5f7dd86b.chunk.js",
+    "main.js.map": "/Introducing-impressive-books/static/js/main.5f7dd86b.chunk.js.map",
+    "runtime-main.js": "/Introducing-impressive-books/static/js/runtime-main.6543eadd.js",
+    "runtime-main.js.map": "/Introducing-impressive-books/static/js/runtime-main.6543eadd.js.map",
+    "static/css/2.a1596f27.chunk.css": "/Introducing-impressive-books/static/css/2.a1596f27.chunk.css",
+    "static/js/2.b4fd7756.chunk.js": "/Introducing-impressive-books/static/js/2.b4fd7756.chunk.js",
+    "static/js/2.b4fd7756.chunk.js.map": "/Introducing-impressive-books/static/js/2.b4fd7756.chunk.js.map",
+    "static/js/3.cbe3cd19.chunk.js": "/Introducing-impressive-books/static/js/3.cbe3cd19.chunk.js",
+    "static/js/3.cbe3cd19.chunk.js.map": "/Introducing-impressive-books/static/js/3.cbe3cd19.chunk.js.map",
+    "index.html": "/Introducing-impressive-books/index.html",
+    "static/css/2.a1596f27.chunk.css.map": "/Introducing-impressive-books/static/css/2.a1596f27.chunk.css.map",
+    "static/css/main.567242dd.chunk.css.map": "/Introducing-impressive-books/static/css/main.567242dd.chunk.css.map",
+    "static/js/2.b4fd7756.chunk.js.LICENSE.txt": "/Introducing-impressive-books/static/js/2.b4fd7756.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Introducing-impressive-books/static/media/RIDIBatang.80d8670c.otf",
+    "static/media/mikolaj-DCzpr09cTXY-unsplash.b1c7a80f.jpg": "/Introducing-impressive-books/static/media/mikolaj-DCzpr09cTXY-unsplash.b1c7a80f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6543eadd.js",
+    "static/css/2.a1596f27.chunk.css",
+    "static/js/2.b4fd7756.chunk.js",
+    "static/css/main.567242dd.chunk.css",
+    "static/js/main.5f7dd86b.chunk.js"
+  ]
+}

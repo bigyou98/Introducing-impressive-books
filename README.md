@@ -1,46 +1,18 @@
-# Getting Started with Create React App
+2021년 3학년 2학기 졸업프로젝트
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- 타입스크립트 사용
+- framer를 이용한 interactive한 웹페이지 제작
 
-## Available Scripts
+제 주제는 `책 소개 WEB` 이구요.
 
-In the project directory, you can run:
+제가 읽었던 책 중에서 감명깊었던 책을 5개를 선정하여 소개하고 그 내용 중에서 중요하다고 생각한 내용을 적었고 그중에서도 더 와닿는 문장을 강조한 웹페이지 입니다.
 
-### `yarn start`
+제가 자기개발을 많이 하고 명언을 좋아하는데 이 책들을 읽으면서 동기부여도 받고 더 성장할 수 있게 해준 문장들이었고 다른 사람들에게 소개해주고 싶은 좋은 말들이어서 주제로 선정했습니다.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+첫화면은 메뉴페이지이고 책이미지를 클릭하면 책관련 명언50개중에 랜덤으로 하나가 뜨고 클릭하면 이동하는 방식입니다.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- 고급진 느낌을 주기 위해서 color컨셉은 black&gold로 선정했구요
+- 네비게이션바는 책안으로 들어가는 느낌으로 만들었음
+- 마우스로 스크롤링해도 내려가지만 뭔가 사용자 편의 측면에서 버튼을 만들었습니다.
+  - 눈에 거슬리지 않게 가시성은 낮췄습니다.
+- 다 좋은 말들이지만 그중에서 더 중요한 문장을 강조했습니다.

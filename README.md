@@ -17,5 +17,5 @@
   - 눈에 거슬리지 않게 가시성은 낮췄습니다.
 - 다 좋은 말들이지만 그중에서 더 중요한 문장을 강조했습니다.
 
-## PAGE 이동
+## 페이지로 이동하기
 http://bigyou98.github.io/Introducing-impressive-books
